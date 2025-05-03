@@ -1,0 +1,15 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment folders
+.env/
+mlops_env/
+
+# Ignore log files
+*.log
+airflow_home/logs/
+
+# Ignore any system-specific files that might get generated (e.g., MacOS, Windows)
+.DS_Store
+Thumbs.db
