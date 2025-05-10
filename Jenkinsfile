@@ -36,7 +36,7 @@ pipeline {
 
         stage('Cleanup') {
             steps {
-                sh 'docker system prune -f'
+                bat 'docker system prune -f'
             }
         }
     }
