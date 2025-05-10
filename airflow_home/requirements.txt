@@ -1,0 +1,6 @@
+apache-airflow==2.8.1
+pandas
+requests
+scikit-learn
+numpy
+joblib
