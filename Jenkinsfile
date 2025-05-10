@@ -15,7 +15,7 @@ pipeline {
 
         stage('Build Docker Image') {
             steps {
-                dir('airflow') {
+                dir('airflow_home') {
                     script {
                         dockerImage = docker.build("${DOCKER_IMAGE}:${env.BUILD_NUMBER}")
                     }
