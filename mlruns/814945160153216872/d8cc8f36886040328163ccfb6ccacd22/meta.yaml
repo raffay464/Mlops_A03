@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/wajeehulhassanr/Projects/Mlops_A03/mlruns/814945160153216872/d8cc8f36886040328163ccfb6ccacd22/artifacts
+end_time: 1746984138118
+entry_point_name: ''
+experiment_id: '814945160153216872'
+lifecycle_stage: active
+run_id: d8cc8f36886040328163ccfb6ccacd22
+run_name: adaptable-mink-718
+run_uuid: d8cc8f36886040328163ccfb6ccacd22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746984138113
+status: 3
+tags: []
+user_id: wajeehulhassanr

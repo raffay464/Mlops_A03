@@ -69,6 +69,16 @@ This project implements a scalable, production-ready MLOps pipeline for processi
 
 ---
 
+## MLFLOW
+
+To run the mlflow experiment, run the following command : 
+
+python airflow_home/dags/model.py
+
+Open mlflow ui using : 
+
+mlflow ui
+
 ## 📂 Project Structure
 
 airflow_home/

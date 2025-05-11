@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/wajeehulhassanr/Projects/Mlops_A03/mlruns/814945160153216872/916934ae94964e1b8e83f5e485925ddd/artifacts
+end_time: 1746984226772
+entry_point_name: ''
+experiment_id: '814945160153216872'
+lifecycle_stage: active
+run_id: 916934ae94964e1b8e83f5e485925ddd
+run_name: glamorous-trout-397
+run_uuid: 916934ae94964e1b8e83f5e485925ddd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746984226761
+status: 4
+tags: []
+user_id: wajeehulhassanr

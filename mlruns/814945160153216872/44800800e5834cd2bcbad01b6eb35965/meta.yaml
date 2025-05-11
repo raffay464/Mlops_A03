@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/wajeehulhassanr/Projects/Mlops_A03/mlruns/814945160153216872/44800800e5834cd2bcbad01b6eb35965/artifacts
+end_time: 1746984154993
+entry_point_name: ''
+experiment_id: '814945160153216872'
+lifecycle_stage: active
+run_id: 44800800e5834cd2bcbad01b6eb35965
+run_name: worried-tern-8
+run_uuid: 44800800e5834cd2bcbad01b6eb35965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746984154989
+status: 3
+tags: []
+user_id: wajeehulhassanr

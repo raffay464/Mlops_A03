@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/wajeehulhassanr/Projects/Mlops_A03/mlruns/956533480880755943/fe8c16c8f2ae4313b325a10cf706387d/artifacts
+end_time: 1746981414193
+entry_point_name: ''
+experiment_id: '956533480880755943'
+lifecycle_stage: active
+run_id: fe8c16c8f2ae4313b325a10cf706387d
+run_name: legendary-shad-165
+run_uuid: fe8c16c8f2ae4313b325a10cf706387d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746981414120
+status: 3
+tags: []
+user_id: wajeehulhassanr

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/wajeehulhassanr/Projects/Mlops_A03/mlruns/814945160153216872/dff8ff26a41547eb98f1edb6b491d0d3/artifacts
+end_time: 1746984178585
+entry_point_name: ''
+experiment_id: '814945160153216872'
+lifecycle_stage: active
+run_id: dff8ff26a41547eb98f1edb6b491d0d3
+run_name: persistent-sheep-997
+run_uuid: dff8ff26a41547eb98f1edb6b491d0d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746984178581
+status: 3
+tags: []
+user_id: wajeehulhassanr

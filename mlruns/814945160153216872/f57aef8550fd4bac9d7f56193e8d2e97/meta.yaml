@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/wajeehulhassanr/Projects/Mlops_A03/mlruns/814945160153216872/f57aef8550fd4bac9d7f56193e8d2e97/artifacts
+end_time: 1746981721722
+entry_point_name: ''
+experiment_id: '814945160153216872'
+lifecycle_stage: active
+run_id: f57aef8550fd4bac9d7f56193e8d2e97
+run_name: lyrical-midge-833
+run_uuid: f57aef8550fd4bac9d7f56193e8d2e97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746981721699
+status: 3
+tags: []
+user_id: wajeehulhassanr

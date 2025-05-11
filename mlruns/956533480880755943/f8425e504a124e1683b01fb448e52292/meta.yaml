@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/wajeehulhassanr/Projects/Mlops_A03/mlruns/956533480880755943/f8425e504a124e1683b01fb448e52292/artifacts
+end_time: 1746981599149
+entry_point_name: ''
+experiment_id: '956533480880755943'
+lifecycle_stage: active
+run_id: f8425e504a124e1683b01fb448e52292
+run_name: amazing-conch-288
+run_uuid: f8425e504a124e1683b01fb448e52292
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746981599111
+status: 3
+tags: []
+user_id: wajeehulhassanr
